@@ -29,5 +29,5 @@ ElectroEye is an open-source security analysis tool designed for Electron deskto
 ### Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ElectroEye.git
+   git clone https://github.com/pwnengine/ElectroEye.git
    cd ElectroEye
